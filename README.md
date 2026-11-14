@@ -1,22 +1,3 @@
-# Smriti
-### Cognitive care that feels like home.
-# Check Other branches for more details.
-## Our Hackathon Journey
-
-Smriti is a project built by our team for **Smart India Hackathon
-(SIH) 2026**, and we have **qualified for Round 2**.
-
-Our goal is to create accessible, culturally familiar cognitive
-support for elderly people living with dementia in India's
-North Eastern Region.
-
-- **Hackathon:** Smart India Hackathon 2026
-- **Problem Statement:** 26003
-- **Ministry:** Ministry of Development of North Eastern Region (MDoNER)
-- **Achievement:** Qualified for Round 2
-
----
-
 ## About Smriti
 
 Smriti is an AI powered memory gaming and reminder companion
