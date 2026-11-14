@@ -1,0 +1,23 @@
+{
+  "name": "smriti-ai",
+  "main": "worker.js",
+  "compatibility_date": "2026-09-01",
+  "workers_dev": true,
+  "secrets_store_secrets": [{"binding":"GEMINI_API_KEY","store_id":"94d74d1728c14f2f97271952ad8e96b0","secret_name":"GEMINI_API_KEY"}],
+  "vars": {
+    "FIREBASE_PROJECT": "smriti-patient-care-11931"
+  },
+  "ratelimits": [
+    {
+      "name": "AI_RATE_LIMIT",
+      "namespace_id": "1001",
+      "simple": {
+        "limit": 6,
+        "period": 60
+      }
+    }
+  ],
+  "observability": {
+    "enabled": false
+  }
+}

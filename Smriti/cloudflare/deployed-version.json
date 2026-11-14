@@ -1,0 +1,54 @@
+{
+  "id": "6878c069-f6b6-467a-8019-eca12aa4b695",
+  "number": 5,
+  "metadata": {
+    "created_on": "2026-09-13T08:47:55.838529Z",
+    "source": "dash",
+    "author_id": "51981fd93620a3e3a99576eac8ff804e",
+    "author_email": "solarsteak972@gmail.com",
+    "has_preview": true
+  },
+  "annotations": {
+    "workers/message": "Added Secrets Store binding GEMINI_API_KEY",
+    "workers/triggered_by": "version_upload"
+  },
+  "resources": {
+    "script": {
+      "etag": "4957477083c19d633a428c420834d4a3837533455b1b403df33d3c9640e167ab",
+      "handlers": [
+        "fetch"
+      ],
+      "last_deployed_from": "dash"
+    },
+    "script_runtime": {
+      "compatibility_date": "2026-09-01",
+      "usage_model": "standard"
+    },
+    "bindings": [
+      {
+        "name": "AI_RATE_LIMIT",
+        "namespace_id": "1001",
+        "simple": {
+          "limit": 6,
+          "period": 60
+        },
+        "type": "ratelimit"
+      },
+      {
+        "name": "FIREBASE_PROJECT",
+        "text": "smriti-patient-care-11931",
+        "type": "plain_text"
+      },
+      {
+        "name": "GEMINI_API_KEY",
+        "secret_name": "GEMINI_API_KEY",
+        "store_id": "94d74d1728c14f2f97271952ad8e96b0",
+        "type": "secrets_store_secret"
+      },
+      {
+        "name": "GROQ_API_KEY",
+        "type": "secret_text"
+      }
+    ]
+  }
+}

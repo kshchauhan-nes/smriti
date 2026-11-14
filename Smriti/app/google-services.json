@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792486453890",
+    "project_id": "smriti-patient-care-11931",
+    "storage_bucket": "smriti-patient-care-11931.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792486453890:android:f62476a7db41fdaa744a9b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA52n9idgxith4Jk6ISXoB2BBVZqwugJ4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

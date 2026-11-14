@@ -1,0 +1,38 @@
+
+ ⛅️ wrangler 4.131.1
+────────────────────
+Created:     2026-09-12T11:41:51.158Z
+Author:      solarsteak972@gmail.com
+Source:      Upload
+Message:     Automatic deployment on upload.
+Version(s):  (100%) 187d1b9a-01de-4fd2-a8f9-df637ebfbff3
+                 Created:  2026-09-12T11:41:51.158Z
+                     Tag:  -
+                 Message:  -
+
+Created:     2026-09-12T11:44:29.301Z
+Author:      solarsteak972@gmail.com
+Source:      Secret Change
+Message:     -
+Version(s):  (100%) 9a4d2b35-7ba8-4e38-a8c4-975487ed2fab
+                 Created:  2026-09-12T11:44:29.301Z
+                     Tag:  -
+                 Message:  -
+
+Created:     2026-09-12T11:46:08.618Z
+Author:      solarsteak972@gmail.com
+Source:      Unknown (deployment)
+Message:     -
+Version(s):  (100%) 5b280494-38e2-4def-b923-ae6e2893a9b4
+                 Created:  2026-09-12T11:46:05.666Z
+                     Tag:  -
+                 Message:  -
+
+Created:     2026-09-13T08:47:57.084Z
+Author:      solarsteak972@gmail.com
+Source:      Unknown (deployment)
+Message:     Deployed version 6878c069
+Version(s):  (100%) 6878c069-f6b6-467a-8019-eca12aa4b695
+                 Created:  2026-09-13T08:47:55.838Z
+                     Tag:  -
+                 Message:  Added Secrets Store binding GEMINI_API_KEY

@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="ui_complete_0" formatted="false">"Smriti"</string>
+  <string name="ui_complete_1" formatted="false">"Personalise Smriti"</string>
+  <string name="ui_complete_2" formatted="false">"Let\'s personalise Smriti for you!"</string>
+  <string name="ui_complete_3" formatted="false">"Where are you from?"</string>
+  <string name="ui_complete_4" formatted="false">"Preferred language"</string>
+  <string name="ui_complete_5" formatted="false">"What feels familiar to you?"</string>
+  <string name="ui_complete_6" formatted="false">"You\'re all set!"</string>
+  <string name="ui_complete_7" formatted="false">"A few simple details help make your space feel familiar and meaningful."</string>
+  <string name="ui_complete_8" formatted="false">"Select your state or region."</string>
+  <string name="ui_complete_9" formatted="false">"Choose the language you are most comfortable with."</string>
+  <string name="ui_complete_10" formatted="false">"Select the people, places and topics that bring back good memories."</string>
+  <string name="ui_complete_11" formatted="false">"Here are your saved preferences for this patient on this device."</string>
+  <string name="ui_complete_12" formatted="false">"Better memories. Brighter days."</string>
+  <string name="ui_complete_13" formatted="false">"Family &amp; People"</string>
+  <string name="ui_complete_14" formatted="false">"Local Food"</string>
+  <string name="ui_complete_15" formatted="false">"Festivals &amp; Culture"</string>
+  <string name="ui_complete_16" formatted="false">"Nature &amp; Landscapes"</string>
+  <string name="ui_complete_17" formatted="false">"Everyday Objects"</string>
+  <string name="ui_complete_18" formatted="false">"Music &amp; Art"</string>
+  <string name="ui_complete_19" formatted="false">"Traditional Work"</string>
+  <string name="ui_complete_20" formatted="false">"Others"</string>
+  <string name="ui_complete_21" formatted="false">"Assam"</string>
+  <string name="ui_complete_22" formatted="false">"Meghalaya"</string>
+  <string name="ui_complete_23" formatted="false">"Manipur"</string>
+  <string name="ui_complete_24" formatted="false">"Mizoram"</string>
+  <string name="ui_complete_25" formatted="false">"Nagaland"</string>
+  <string name="ui_complete_26" formatted="false">"Tripura"</string>
+  <string name="ui_complete_27" formatted="false">"Arunachal Pradesh"</string>
+  <string name="ui_complete_28" formatted="false">"Sikkim"</string>
+  <string name="ui_complete_29" formatted="false">"Get Started  →"</string>
+  <string name="ui_complete_30" formatted="false">"Continue  →"</string>
+  <string name="ui_complete_31" formatted="false">"Next  →"</string>
+  <string name="ui_complete_32" formatted="false">"Region"</string>
+  <string name="ui_complete_33" formatted="false">"Language"</string>
+  <string name="ui_complete_34" formatted="false">"Interests"</string>
+  <string name="ui_complete_35" formatted="false">"None selected"</string>
+  <string name="ui_complete_36" formatted="false">"Your region and familiar surroundings"</string>
+  <string name="ui_complete_37" formatted="false">"Your preferred language"</string>
+  <string name="ui_complete_38" formatted="false">"Your memories and interests"</string>
+  <string name="ui_complete_39" formatted="false">"Your Smriti is here for you ♡"</string>
+  <string name="ui_complete_40" formatted="false">"Today\'s highlight"</string>
+  <string name="ui_complete_41" formatted="false">"A little care. A brighter day."</string>
+  <string name="ui_complete_42" formatted="false">"Take a moment to talk with Smriti  →"</string>
+  <string name="ui_complete_43" formatted="false">"What would you like to do?"</string>
+  <string name="ui_complete_44" formatted="false">"For a sharper mind"</string>
+  <string name="ui_complete_45" formatted="false">"A familiar companion"</string>
+  <string name="ui_complete_46" formatted="false">"⌂ Home"</string>
+  <string name="ui_complete_47" formatted="false">"♡ Caregiver"</string>
+  <string name="ui_complete_48" formatted="false">"☷ Personalise"</string>
+  <string name="ui_complete_49" formatted="false">"← Back"</string>
+  <string name="ui_complete_50" formatted="false">"← Back Home"</string>
+  <string name="ui_complete_51" formatted="false">"← Back to Games"</string>
+  <string name="ui_complete_52" formatted="false">"← Patient View"</string>
+  <string name="ui_complete_53" formatted="false">"Memory Games"</string>
+  <string name="ui_complete_54" formatted="false">"Picture Recall"</string>
+  <string name="ui_complete_55" formatted="false">"Story &amp; Memory"</string>
+  <string name="ui_complete_56" formatted="false">"Family Face Recall"</string>
+  <string name="ui_complete_57" formatted="false">"Choose an exercise for your mind today"</string>
+  <string name="ui_complete_58" formatted="false">"Look at regional objects &amp; recall them"</string>
+  <string name="ui_complete_59" formatted="false">"Read a short story &amp; answer gentle questions"</string>
+  <string name="ui_complete_60" formatted="false">"Recognize beloved children, relatives &amp; friends"</string>
+  <string name="ui_complete_61" formatted="false">"Object Memory"</string>
+  <string name="ui_complete_62" formatted="false">"Episodic Recall"</string>
+  <string name="ui_complete_63" formatted="false">"Reminiscence"</string>
+  <string name="ui_complete_64" formatted="false">"Adaptive Memory Training"</string>
+  <string name="ui_complete_65" formatted="false">"Remember these objects"</string>
+  <string name="ui_complete_66" formatted="false">"Take your time and look carefully 🌼"</string>
+  <string name="ui_complete_67" formatted="false">"Check Answer"</string>
+  <string name="ui_complete_68" formatted="false">"Play Next Round"</string>
+  <string name="ui_complete_69" formatted="false">"Return Home"</string>
+  <string name="ui_complete_70" formatted="false">"Round Summary"</string>
+  <string name="ui_complete_71" formatted="false">"Score"</string>
+  <string name="ui_complete_72" formatted="false">"Remembered"</string>
+  <string name="ui_complete_73" formatted="false">"Extra selections"</string>
+  <string name="ui_complete_74" formatted="false">"Response time"</string>
+  <string name="ui_complete_75" formatted="false">"Completed level"</string>
+  <string name="ui_complete_76" formatted="false">"✓ Selected"</string>
+  <string name="ui_complete_77" formatted="false">"Tea"</string>
+  <string name="ui_complete_78" formatted="false">"Rice"</string>
+  <string name="ui_complete_79" formatted="false">"Basket"</string>
+  <string name="ui_complete_80" formatted="false">"Flower"</string>
+  <string name="ui_complete_81" formatted="false">"Mango"</string>
+  <string name="ui_complete_82" formatted="false">"Bird"</string>
+  <string name="ui_complete_83" formatted="false">"Umbrella"</string>
+  <string name="ui_complete_84" formatted="false">"Apple"</string>
+  <string name="ui_complete_85" formatted="false">"Sunflower"</string>
+  <string name="ui_complete_86" formatted="false">"Fish"</string>
+  <string name="ui_complete_87" formatted="false">"Recognize your beloved family &amp; friends"</string>
+  <string name="ui_complete_88" formatted="false">"No family members added yet."</string>
+  <string name="ui_complete_89" formatted="false">"Caregivers can add relatives in the Caregiver Dashboard."</string>
+  <string name="ui_complete_90" formatted="false">"Do you remember who this is?"</string>
+  <string name="ui_complete_91" formatted="false">"Take your time, Aita 🌼"</string>
+  <string name="ui_complete_92" formatted="false">"🌟 Yes! Exactly right!"</string>
+  <string name="ui_complete_93" formatted="false">"🌼 That\'s okay, Aita!"</string>
+  <string name="ui_complete_94" formatted="false">"Next Person →"</string>
+  <string name="ui_complete_95" formatted="false">"See Summary 🌟"</string>
+  <string name="ui_complete_96" formatted="false">"❤️ You know your family so well!"</string>
+  <string name="ui_complete_97" formatted="false">"🌻 Beautiful connection with your loved ones"</string>
+  <string name="ui_complete_98" formatted="false">"Play Again 👨‍👩‍👧"</string>
+  <string name="ui_complete_99" formatted="false">"Back to Games Menu"</string>
+  <string name="ui_complete_100" formatted="false">"Listen, remember events, and recall gently"</string>
+  <string name="ui_complete_101" formatted="false">"I\'m Ready for Questions →"</string>
+  <string name="ui_complete_102" formatted="false">"Next Question →"</string>
+  <string name="ui_complete_103" formatted="false">"See Results 🌟"</string>
+  <string name="ui_complete_104" formatted="false">"🎉 Wonderful Recall!"</string>
+  <string name="ui_complete_105" formatted="false">"😊 Good Effort, Aita!"</string>
+  <string name="ui_complete_106" formatted="false">"Play Another Story 📖"</string>
+  <string name="ui_complete_107" formatted="false">"Medicine Tracker"</string>
+  <string name="ui_complete_108" formatted="false">"Today\'s Schedule"</string>
+  <string name="ui_complete_109" formatted="false">"100% Offline tracking saved locally"</string>
+  <string name="ui_complete_110" formatted="false">"No medicines added yet."</string>
+  <string name="ui_complete_111" formatted="false">"Medicine Name (e.g. Donepezil)"</string>
+  <string name="ui_complete_112" formatted="false">"Dosage (e.g. 1 tablet)"</string>
+  <string name="ui_complete_113" formatted="false">"Time (e.g. 09:00 AM or 21:00)"</string>
+  <string name="ui_complete_114" formatted="false">"Enter a valid time, such as 09:00 AM or 21:00"</string>
+  <string name="ui_complete_115" formatted="false">"Notes (e.g. after breakfast)"</string>
+  <string name="ui_complete_116" formatted="false">"Save Locally"</string>
+  <string name="ui_complete_117" formatted="false">"Cancel"</string>
+  <string name="ui_complete_118" formatted="false">"Hydration Tracker"</string>
+  <string name="ui_complete_119" formatted="false">"Gentle water reminders for brain health"</string>
+  <string name="ui_complete_120" formatted="false">"Glasses Drunk Today"</string>
+  <string name="ui_complete_121" formatted="false">"- 1 Glass"</string>
+  <string name="ui_complete_122" formatted="false">"+ 1 Glass 💧"</string>
+  <string name="ui_complete_123" formatted="false">"NER Climate Care Tip"</string>
+  <string name="ui_complete_124" formatted="false">"Daily Routine"</string>
+  <string name="ui_complete_125" formatted="false">"Peaceful Daily Rhythm"</string>
+  <string name="ui_complete_126" formatted="false">"Structured routines reduce anxiety in dementia care"</string>
+  <string name="ui_complete_127" formatted="false">"Daily reminders"</string>
+  <string name="ui_complete_128" formatted="false">"Allow notifications"</string>
+  <string name="ui_complete_129" formatted="false">"Notification settings"</string>
+  <string name="ui_complete_130" formatted="false">"Allow precise reminders"</string>
+  <string name="ui_complete_131" formatted="false">"Caregiver Dashboard"</string>
+  <string name="ui_complete_132" formatted="false">"Patient monitoring &amp; health overview"</string>
+  <string name="ui_complete_133" formatted="false">"+ Add family photo &amp; details"</string>
+  <string name="ui_complete_134" formatted="false">"Missed medicines &amp; activities"</string>
+  <string name="ui_complete_135" formatted="false">"Today • Still unchecked 30 minutes after the scheduled time"</string>
+  <string name="ui_complete_136" formatted="false">"Loading today\'s checklist…"</string>
+  <string name="ui_complete_137" formatted="false">"No missed medicines or activities today."</string>
+  <string name="ui_complete_138" formatted="false">"Not marked taken"</string>
+  <string name="ui_complete_139" formatted="false">"Not marked complete"</string>
+  <string name="ui_complete_140" formatted="false">"Today\'s Adherence"</string>
+  <string name="ui_complete_141" formatted="false">"Meds Taken"</string>
+  <string name="ui_complete_142" formatted="false">"Water Glasses"</string>
+  <string name="ui_complete_143" formatted="false">"Cognitive Performance"</string>
+  <string name="ui_complete_144" formatted="false">"Sessions Played"</string>
+  <string name="ui_complete_145" formatted="false">"Avg Score"</string>
+  <string name="ui_complete_146" formatted="false">"Best Score"</string>
+  <string name="ui_complete_147" formatted="false">"Avg Speed"</string>
+  <string name="ui_complete_148" formatted="false">"Family Photos &amp; Profiles"</string>
+  <string name="ui_complete_149" formatted="false">"+ Add Photo"</string>
+  <string name="ui_complete_150" formatted="false">"Edit"</string>
+  <string name="ui_complete_151" formatted="false">"Recent Game History (Offline SQLite)"</string>
+  <string name="ui_complete_152" formatted="false">"No sessions recorded yet"</string>
+  <string name="ui_complete_153" formatted="false">"Play any memory game to see offline performance metrics."</string>
+  <string name="ui_complete_154" formatted="false">"Game performance"</string>
+  <string name="ui_complete_155" formatted="false">"Average score"</string>
+  <string name="ui_complete_156" formatted="false">"Complete a memory game to see your progress here."</string>
+  <string name="ui_complete_157" formatted="false">"Add family photo"</string>
+  <string name="ui_complete_158" formatted="false">"Edit family photo &amp; details"</string>
+  <string name="ui_complete_159" formatted="false">"Choose a clear photo of one person. All fields are required."</string>
+  <string name="ui_complete_160" formatted="false">"Choose photo *"</string>
+  <string name="ui_complete_161" formatted="false">"Change photo"</string>
+  <string name="ui_complete_162" formatted="false">"Person\'s name *"</string>
+  <string name="ui_complete_163" formatted="false">"Relationship *"</string>
+  <string name="ui_complete_164" formatted="false">"e.g. Daughter"</string>
+  <string name="ui_complete_165" formatted="false">"About this person / photo *"</string>
+  <string name="ui_complete_166" formatted="false">"A familiar memory, where the photo was taken, or something they enjoy"</string>
+  <string name="ui_complete_167" formatted="false">"These details will appear after the recall answer. The photo is saved offline."</string>
+  <string name="ui_complete_168" formatted="false">"Saving…"</string>
+  <string name="ui_complete_169" formatted="false">"Save photo &amp; details"</string>
+  <string name="ui_complete_170" formatted="false">"Local patient • saved on this device"</string>
+  <string name="ui_complete_171" formatted="false">"Opening your patient account"</string>
+  <string name="ui_complete_172" formatted="false">"Retry connection"</string>
+  <string name="ui_complete_173" formatted="false">"Return to sign in"</string>
+  <string name="ui_complete_174" formatted="false">"A little care. A familiar connection."</string>
+  <string name="ui_complete_175" formatted="false">"Let\'s get to know you"</string>
+  <string name="ui_complete_176" formatted="false">"Create one account for your patient. Their care and memories will stay together."</string>
+  <string name="ui_complete_177" formatted="false">"Sign in to bring your care, routines and family memories with you."</string>
+  <string name="ui_complete_178" formatted="false">"Already registered? Sign in"</string>
+  <string name="ui_complete_179" formatted="false">"New patient? Create account"</string>
+  <string name="ui_complete_180" formatted="false">"Or stay on this device"</string>
+  <string name="ui_complete_181" formatted="false">"Your everyday care works offline. Sign in when you want to sync across devices."</string>
+  <string name="ui_complete_182" formatted="false">"Patient &amp; account settings"</string>
+  <string name="ui_complete_183" formatted="false">"Time, e.g. 08:00 AM"</string>
+  <string name="ui_complete_184" formatted="false">"Import this device\'s local patient"</string>
+  <string name="ui_complete_185" formatted="false">"Log out / switch patient account"</string>
+  <string name="ui_complete_186" formatted="false">"Import for this patient"</string>
+  <string name="ui_complete_187" formatted="false">"Offline narration"</string>
+  <string name="ui_complete_188" formatted="false">"OK"</string>
+  <string name="ui_complete_189" formatted="false">"4-Digit PIN"</string>
+  <string name="ui_complete_190" formatted="false">"Please enter the 4-digit caregiver PIN to access monitoring, emergency contacts, and relative profiles."</string>
+  <string name="ui_complete_191" formatted="false">"Incorrect PIN. Caregiver access only."</string>
+  <string name="ui_complete_192" formatted="false">"Clear conversation &amp; memory"</string>
+  <string name="ui_complete_193" formatted="false">"No preferences saved. Try: I enjoy music."</string>
+  <string name="ui_complete_194" formatted="false">"Level {0}"</string>
+  <string name="ui_complete_195" formatted="false">"{0} completed sessions"</string>
+  <string name="ui_complete_196" formatted="false">"{0} of {1} activities completed today"</string>
+  <string name="ui_complete_197" formatted="false">"{0} of {1} taken today"</string>
+  <string name="ui_complete_198" formatted="false">"Person {0} of {1}"</string>
+  <string name="ui_complete_199" formatted="false">"Question {0} of {1}"</string>
+  <string name="ui_complete_200" formatted="false">"Identified: {0} of {1} relatives"</string>
+  <string name="ui_complete_201" formatted="false">"Average response: {0}s"</string>
+  <string name="ui_complete_202" formatted="false">"Correct Answers: {0} / {1}"</string>
+  <string name="ui_complete_203" formatted="false">"Story: {0}"</string>
+  <string name="ui_complete_204" formatted="false">"{0} medicines • {1} activities"</string>
+  <string name="ui_complete_205" formatted="false">"{0} • {1} min overdue"</string>
+  <string name="ui_complete_206" formatted="false">"{0} • Offline Mode"</string>
+  <string name="ui_complete_207" formatted="false">"📞 Emergency SOS Contact ({0})"</string>
+  <string name="ui_complete_208" formatted="false">"{0} relatives configured for games"</string>
+  <string name="ui_complete_209" formatted="false">"Patient ID: {0}"</string>
+  <string name="ui_complete_210" formatted="false">"Import into {0}?"</string>
+  <string name="ui_complete_211" formatted="false">"Enjoys: {0} • Remove"</string>
+  <string name="ui_complete_212" formatted="false">"Avoid: {0} • Remove"</string>
+  <string name="ui_complete_213" formatted="false">"All medicines taken!"</string>
+  <string name="ui_complete_214" formatted="false">"Stay on Track"</string>
+  <string name="ui_complete_215" formatted="false">"Add Medicine"</string>
+  <string name="ui_complete_216" formatted="false">"Allow notifications to be reminded about unfinished medicines and activities."</string>
+  <string name="ui_complete_217" formatted="false">"Notifications are on. Allow precise reminders to receive them at the scheduled time; otherwise Android may delay them."</string>
+  <string name="ui_complete_218" formatted="false">"Reminders arrive 15 minutes before, at the scheduled time, and 30 minutes after if still unchecked (missed). Checklists reset every day."</string>
+  <string name="ui_complete_219" formatted="false">"Profile saved on this device"</string>
+  <string name="ui_complete_220" formatted="false">"Patient data is fully synced"</string>
+  <string name="ui_complete_221" formatted="false">"Signed out"</string>
+  <string name="ui_complete_222" formatted="false">"Signed-in care records and photos sync automatically. Offline chatbot history stays on this device. Connect before signing out if changes are waiting to sync."</string>
+  <string name="ui_complete_223" formatted="false">"Only import if this device\'s local patient is the same person. This adds their current medicines, routines, hydration, family details/photos and game history to this account. Review any example medicines before using them."</string>
+  <string name="ui_complete_224" formatted="false">"Saved only on this device for this patient. Preferences come from explicit likes and dislikes. The latest 120 messages are kept."</string>
+  <string name="ui_complete_225" formatted="false">"Which objects did you see?"</string>
+  <string name="ui_complete_226" formatted="false">"Select the {0} objects you saw."</string>
+  <string name="ui_complete_227" formatted="false">"Wonderful! 🌟"</string>
+  <string name="ui_complete_228" formatted="false">"Good effort 😊"</string>
+  <string name="ui_complete_229" formatted="false">"Let\'s try another one 🌼"</string>
+  <string name="ui_complete_230" formatted="false">"You remembered these very well."</string>
+  <string name="ui_complete_231" formatted="false">"You\'re doing nicely. Keep going."</string>
+  <string name="ui_complete_232" formatted="false">"No worries. You can practise with the same number of objects."</string>
+  <string name="ui_complete_233" formatted="false">"Adaptive Difficulty"</string>
+  <string name="ui_complete_234" formatted="false">"All correct! Next round: {0} objects."</string>
+  <string name="ui_complete_235" formatted="false">"Making the next round easier."</string>
+  <string name="ui_complete_236" formatted="false">"Next round: {0} objects. Get all correct with no extra selections to advance."</string>
+  <string name="ui_complete_237" formatted="false">"{0} sec"</string>
+  <string name="ui_complete_238" formatted="false">"All Medicines Done!"</string>
+  <string name="ui_complete_239" formatted="false">"{0} Medicines Remaining"</string>
+  <string name="ui_complete_240" formatted="false">"🌟 Daily Goal Achieved! Wonderful hydration!"</string>
+  <string name="ui_complete_241" formatted="false">"Keep a glass of water nearby and take small sips."</string>
+  <string name="ui_complete_242" formatted="false">"Warm Assam tea and boiled water support good digestion and cognitive alertness in elderly individuals."</string>
+  <string name="ui_complete_243" formatted="false">"A Morning at Jorhat Bazaar"</string>
+  <string name="ui_complete_244" formatted="false">"On a sunny Tuesday morning, Grandmother Mina walked to the Jorhat weekly market."</string>
+  <string name="ui_complete_245" formatted="false">"She carried a traditional cane basket woven by local artisans."</string>
+  <string name="ui_complete_246" formatted="false">"At the tea stall, she met her old friend Biren and drank warm milk tea."</string>
+  <string name="ui_complete_247" formatted="false">"Before returning home, Mina bought three ripe yellow mangoes and fresh spinach for dinner."</string>
+  <string name="ui_complete_248" formatted="false">"Who went to the weekly market in Jorhat?"</string>
+  <string name="ui_complete_249" formatted="false">"Grandmother Mina"</string>
+  <string name="ui_complete_250" formatted="false">"Her neighbor Anita"</string>
+  <string name="ui_complete_251" formatted="false">"Doctor Deben"</string>
+  <string name="ui_complete_252" formatted="false">"Her sister Rita"</string>
+  <string name="ui_complete_253" formatted="false">"Whom did Mina meet at the tea stall?"</string>
+  <string name="ui_complete_254" formatted="false">"Her friend Biren"</string>
+  <string name="ui_complete_255" formatted="false">"Her son Rahul"</string>
+  <string name="ui_complete_256" formatted="false">"The shopkeeper Manoj"</string>
+  <string name="ui_complete_257" formatted="false">"Nobody"</string>
+  <string name="ui_complete_258" formatted="false">"What fruit did Mina buy before going home?"</string>
+  <string name="ui_complete_259" formatted="false">"Ripe mangoes"</string>
+  <string name="ui_complete_260" formatted="false">"Sweet apples"</string>
+  <string name="ui_complete_261" formatted="false">"Juicy oranges"</string>
+  <string name="ui_complete_262" formatted="false">"Guavas"</string>
+  <string name="ui_complete_263" formatted="false">"Bihu Celebration at Home"</string>
+  <string name="ui_complete_264" formatted="false">"During the Rongali Bihu festival, Rahul wore a new red and white Assamese Gamusa."</string>
+  <string name="ui_complete_265" formatted="false">"His mother baked sweet coconut Pitha and served it with fresh curd in bell-metal bowls."</string>
+  <string name="ui_complete_266" formatted="false">"In the courtyard, children danced joyfully to the rhythmic beats of the Dhol."</string>
+  <string name="ui_complete_267" formatted="false">"The celebration ended peacefully as evening lamps were lit under the sacred Tulsi plant."</string>
+  <string name="ui_complete_268" formatted="false">"What traditional attire did Rahul wear during Bihu?"</string>
+  <string name="ui_complete_269" formatted="false">"Red &amp; white Gamusa"</string>
+  <string name="ui_complete_270" formatted="false">"Silk kurta"</string>
+  <string name="ui_complete_271" formatted="false">"Woolen shawl"</string>
+  <string name="ui_complete_272" formatted="false">"Yellow scarf"</string>
+  <string name="ui_complete_273" formatted="false">"What sweet dish was served with fresh curd?"</string>
+  <string name="ui_complete_274" formatted="false">"Coconut Pitha"</string>
+  <string name="ui_complete_275" formatted="false">"Rice pudding"</string>
+  <string name="ui_complete_276" formatted="false">"Laddu"</string>
+  <string name="ui_complete_277" formatted="false">"Banana cake"</string>
+  <string name="ui_complete_278" formatted="false">"Where were the evening lamps lit?"</string>
+  <string name="ui_complete_279" formatted="false">"Under the Tulsi plant"</string>
+  <string name="ui_complete_280" formatted="false">"Near the main gate"</string>
+  <string name="ui_complete_281" formatted="false">"On the rooftop"</string>
+  <string name="ui_complete_282" formatted="false">"By the riverbank"</string>
+  <string name="ui_complete_283" formatted="false">"Trip to Kaziranga Greenery"</string>
+  <string name="ui_complete_284" formatted="false">"Uncle Deben took his family on a morning jeep safari through Kaziranga National Park."</string>
+  <string name="ui_complete_285" formatted="false">"The mist was gently rising over the tall elephant grass."</string>
+  <string name="ui_complete_286" formatted="false">"Near a quiet water pond, they spotted a majestic one-horned rhinoceros drinking peacefully."</string>
+  <string name="ui_complete_287" formatted="false">"Two colorful hornbill birds flew across the blue sky above them."</string>
+  <string name="ui_complete_288" formatted="false">"Which national park did Uncle Deben and his family visit?"</string>
+  <string name="ui_complete_289" formatted="false">"Kaziranga National Park"</string>
+  <string name="ui_complete_290" formatted="false">"Manas Sanctuary"</string>
+  <string name="ui_complete_291" formatted="false">"Namdapha Park"</string>
+  <string name="ui_complete_292" formatted="false">"Sundarbans"</string>
+  <string name="ui_complete_293" formatted="false">"Which animal did they see drinking near the pond?"</string>
+  <string name="ui_complete_294" formatted="false">"One-horned Rhinoceros"</string>
+  <string name="ui_complete_295" formatted="false">"Wild elephant"</string>
+  <string name="ui_complete_296" formatted="false">"Royal Bengal tiger"</string>
+  <string name="ui_complete_297" formatted="false">"Swamp deer"</string>
+  <string name="ui_complete_298" formatted="false">"What birds flew across the sky?"</string>
+  <string name="ui_complete_299" formatted="false">"Hornbill birds"</string>
+  <string name="ui_complete_300" formatted="false">"Green parrots"</string>
+  <string name="ui_complete_301" formatted="false">"Pigeons"</string>
+  <string name="ui_complete_302" formatted="false">"Eagles"</string>
+  <string name="ui_complete_303" formatted="false">"{0} selected"</string>
+  <string name="ui_complete_304" formatted="false">"{0}s"</string>
+  <string name="ui_complete_305" formatted="false">"Lvl {0} • {1}"</string>
+  <string name="ui_complete_306" formatted="false">"Play New Story 📖"</string>
+  <string name="ui_complete_307" formatted="false">"English"</string>
+  <string name="ui_complete_308" formatted="false">"Photo unavailable"</string>
+  <string name="ui_complete_309" formatted="false">"Total Recall Time: {0}s"</string>
+  <string name="ui_complete_310" formatted="false">"• All data is safely stored offline on this device.
+• Intended for cognitive engagement &amp; caregiver tracking, not clinical diagnosis."</string>
+  <string name="ui_complete_311" formatted="false">"Sign in to sync"</string>
+  <string name="ui_complete_312" formatted="false">"Loading this patient\'s data…"</string>
+  <string name="ui_complete_313" formatted="false">"Saved on device • waiting to sync"</string>
+  <string name="ui_complete_314" formatted="false">"Offline data available • checking connection"</string>
+  <string name="ui_complete_315" formatted="false">"Synced to your patient account"</string>
+  <string name="ui_complete_316" formatted="false">"Your Day"</string>
+  <string name="ui_complete_317" formatted="false">"Medicine"</string>
+  <string name="ui_complete_318" formatted="false">"Hydration"</string>
+  <string name="ui_complete_319" formatted="false">"My Memories"</string>
+  <string name="ui_complete_320" formatted="false">"My Routine"</string>
+  <string name="ui_complete_321" formatted="false">"Talk to Smriti"</string>
+  <string name="ui_complete_322" formatted="false">"Done"</string>
+  <string name="ui_complete_323" formatted="false">"Sign in"</string>
+  <string name="ui_complete_324" formatted="false">"Settings"</string>
+  <string name="ui_complete_325" formatted="false">"Close settings"</string>
+  <string name="ui_complete_326" formatted="false">"Welcome back"</string>
+  <string name="ui_complete_327" formatted="false">"Patient\\\'s name"</string>
+  <string name="ui_complete_328" formatted="false">"Patient name"</string>
+  <string name="ui_complete_329" formatted="false">"Email address"</string>
+  <string name="ui_complete_330" formatted="false">"Password"</string>
+  <string name="ui_complete_331" formatted="false">"Confirm password"</string>
+  <string name="ui_complete_332" formatted="false">"Create patient account"</string>
+  <string name="ui_complete_333" formatted="false">"Forgot password?"</string>
+  <string name="ui_complete_334" formatted="false">"Continue offline"</string>
+  <string name="ui_complete_335" formatted="false">"Please wait…"</string>
+  <string name="ui_complete_336" formatted="false">"Caregiver name"</string>
+  <string name="ui_complete_337" formatted="false">"Caregiver phone"</string>
+  <string name="ui_complete_338" formatted="false">"Location"</string>
+  <string name="ui_complete_339" formatted="false">"Save patient details"</string>
+  <string name="ui_complete_340" formatted="false">"Add a daily routine"</string>
+  <string name="ui_complete_341" formatted="false">"Activity"</string>
+  <string name="ui_complete_342" formatted="false">"Add routine"</string>
+  <string name="ui_complete_343" formatted="false">"Sync now"</string>
+  <string name="ui_complete_344" formatted="false">"Memory"</string>
+  <string name="ui_complete_345" formatted="false">"A moment for you"</string>
+  <string name="ui_complete_346" formatted="false">"Family, favourite things &amp; your day"</string>
+  <string name="ui_complete_347" formatted="false">"●  Always available offline"</string>
+  <string name="ui_complete_348" formatted="false">"Type a message…"</string>
+  <string name="ui_complete_349" formatted="false">"Send"</string>
+  <string name="ui_complete_350" formatted="false">"Open medicines"</string>
+  <string name="ui_complete_351" formatted="false">"Open daily routine"</string>
+  <string name="ui_complete_352" formatted="false">"Conversation memory"</string>
+  <string name="ui_complete_353" formatted="false">"You"</string>
+  <string name="ui_complete_354" formatted="false">"Namaskar / নমস্কাৰ 🌤️"</string>
+  <string name="ui_complete_355" formatted="false">"3 Interactive exercises for mind &amp; memory"</string>
+  <string name="ui_complete_356" formatted="false">"Offline conversations, family &amp; daily care"</string>
+  <string name="ui_complete_357" formatted="false">"🔒  Caregiver View (PIN Protected)"</string>
+  <string name="ui_complete_358" formatted="false">"Caregiver Security PIN"</string>
+  <string name="ui_complete_359" formatted="false">"Unlock Dashboard"</string>
+  <string name="ui_complete_360" formatted="false">"Chat replies currently use English."</string>
+  <string name="ui_complete_361" formatted="false">"Choose the interface language. Some content remains in English."</string>
+  <string name="ui_complete_362" formatted="false">"friend"</string>
+  <string name="ui_complete_363" formatted="false">"Check meds"</string>
+</resources>

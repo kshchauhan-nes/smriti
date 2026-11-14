@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="ui_complete_0" formatted="false">"স্মৃতি"</string>
+  <string name="ui_complete_1" formatted="false">"স্মৃতি নিজের মতো সাজান"</string>
+  <string name="ui_complete_2" formatted="false">"আপনার জন্য স্মৃতি সাজাই!"</string>
+  <string name="ui_complete_3" formatted="false">"আপনি কোথা থেকে এসেছেন?"</string>
+  <string name="ui_complete_4" formatted="false">"পছন্দের ভাষা"</string>
+  <string name="ui_complete_5" formatted="false">"আপনার কী পরিচিত লাগে?"</string>
+  <string name="ui_complete_6" formatted="false">"সব প্রস্তুত!"</string>
+  <string name="ui_complete_7" formatted="false">"কিছু তথ্য স্মৃতিকে আপনার পরিচিত করে তুলবে।"</string>
+  <string name="ui_complete_8" formatted="false">"আপনার রাজ্য বা অঞ্চল বাছুন।"</string>
+  <string name="ui_complete_9" formatted="false">"আপনার সবচেয়ে সুবিধার ভাষা বাছুন।"</string>
+  <string name="ui_complete_10" formatted="false">"ভালো স্মৃতি জাগায় এমন মানুষ, স্থান ও বিষয় বাছুন।"</string>
+  <string name="ui_complete_11" formatted="false">"এই যন্ত্রে এই রোগীর সংরক্ষিত পছন্দগুলি।"</string>
+  <string name="ui_complete_12" formatted="false">"ভালো স্মৃতি। উজ্জ্বল দিন।"</string>
+  <string name="ui_complete_13" formatted="false">"পরিবার ও মানুষ"</string>
+  <string name="ui_complete_14" formatted="false">"স্থানীয় খাবার"</string>
+  <string name="ui_complete_15" formatted="false">"উৎসব ও সংস্কৃতি"</string>
+  <string name="ui_complete_16" formatted="false">"প্রকৃতি ও দৃশ্য"</string>
+  <string name="ui_complete_17" formatted="false">"দৈনন্দিন জিনিস"</string>
+  <string name="ui_complete_18" formatted="false">"সংগীত ও শিল্প"</string>
+  <string name="ui_complete_19" formatted="false">"ঐতিহ্যবাহী কাজ"</string>
+  <string name="ui_complete_20" formatted="false">"অন্যান্য"</string>
+  <string name="ui_complete_21" formatted="false">"অসম"</string>
+  <string name="ui_complete_22" formatted="false">"মেঘালয়"</string>
+  <string name="ui_complete_23" formatted="false">"মণিপুর"</string>
+  <string name="ui_complete_24" formatted="false">"মিজোরাম"</string>
+  <string name="ui_complete_25" formatted="false">"নাগাল্যান্ড"</string>
+  <string name="ui_complete_26" formatted="false">"ত্রিপুরা"</string>
+  <string name="ui_complete_27" formatted="false">"অরুণাচল প্রদেশ"</string>
+  <string name="ui_complete_28" formatted="false">"সিকিম"</string>
+  <string name="ui_complete_29" formatted="false">"শুরু করুন  →"</string>
+  <string name="ui_complete_30" formatted="false">"এগিয়ে যান  →"</string>
+  <string name="ui_complete_31" formatted="false">"পরবর্তী  →"</string>
+  <string name="ui_complete_32" formatted="false">"অঞ্চল"</string>
+  <string name="ui_complete_33" formatted="false">"ভাষা"</string>
+  <string name="ui_complete_34" formatted="false">"আগ্রহ"</string>
+  <string name="ui_complete_35" formatted="false">"কিছু বাছা হয়নি"</string>
+  <string name="ui_complete_36" formatted="false">"আপনার অঞ্চল ও পরিচিত পরিবেশ"</string>
+  <string name="ui_complete_37" formatted="false">"আপনার পছন্দের ভাষা"</string>
+  <string name="ui_complete_38" formatted="false">"আপনার স্মৃতি ও আগ্রহ"</string>
+  <string name="ui_complete_39" formatted="false">"আপনার স্মৃতি আপনার পাশে ♡"</string>
+  <string name="ui_complete_40" formatted="false">"আজকের বিশেষ কথা"</string>
+  <string name="ui_complete_41" formatted="false">"একটু যত্ন। একটি উজ্জ্বল দিন।"</string>
+  <string name="ui_complete_42" formatted="false">"স্মৃতির সঙ্গে একটু কথা বলুন  →"</string>
+  <string name="ui_complete_43" formatted="false">"আপনি কী করতে চান?"</string>
+  <string name="ui_complete_44" formatted="false">"মন সতেজ রাখতে"</string>
+  <string name="ui_complete_45" formatted="false">"একজন পরিচিত সঙ্গী"</string>
+  <string name="ui_complete_46" formatted="false">"⌂ মূল পাতা"</string>
+  <string name="ui_complete_47" formatted="false">"♡ পরিচর্যাকারী"</string>
+  <string name="ui_complete_48" formatted="false">"☷ নিজের মতো সাজান"</string>
+  <string name="ui_complete_49" formatted="false">"← ফিরে যান"</string>
+  <string name="ui_complete_50" formatted="false">"← মূল পাতায়"</string>
+  <string name="ui_complete_51" formatted="false">"← খেলার পাতায়"</string>
+  <string name="ui_complete_52" formatted="false">"← রোগীর পাতা"</string>
+  <string name="ui_complete_53" formatted="false">"স্মৃতির খেলা"</string>
+  <string name="ui_complete_54" formatted="false">"ছবির স্মৃতি"</string>
+  <string name="ui_complete_55" formatted="false">"গল্প ও স্মৃতি"</string>
+  <string name="ui_complete_56" formatted="false">"পরিবারের মুখ চিনুন"</string>
+  <string name="ui_complete_57" formatted="false">"আজ মনের জন্য একটি ব্যায়াম বাছুন"</string>
+  <string name="ui_complete_58" formatted="false">"স্থানীয় জিনিস দেখে মনে রাখুন"</string>
+  <string name="ui_complete_59" formatted="false">"ছোট গল্প পড়ে সহজ প্রশ্নের উত্তর দিন"</string>
+  <string name="ui_complete_60" formatted="false">"প্রিয় সন্তান, আত্মীয় ও বন্ধুদের চিনুন"</string>
+  <string name="ui_complete_61" formatted="false">"বস্তুর স্মৃতি"</string>
+  <string name="ui_complete_62" formatted="false">"ঘটনার স্মৃতি"</string>
+  <string name="ui_complete_63" formatted="false">"স্মৃতিচারণ"</string>
+  <string name="ui_complete_64" formatted="false">"ক্ষমতা অনুযায়ী স্মৃতির অনুশীলন"</string>
+  <string name="ui_complete_65" formatted="false">"এই জিনিসগুলি মনে রাখুন"</string>
+  <string name="ui_complete_66" formatted="false">"সময় নিয়ে ভালো করে দেখুন 🌼"</string>
+  <string name="ui_complete_67" formatted="false">"উত্তর যাচাই করুন"</string>
+  <string name="ui_complete_68" formatted="false">"পরের পর্ব খেলুন"</string>
+  <string name="ui_complete_69" formatted="false">"মূল পাতায় ফিরুন"</string>
+  <string name="ui_complete_70" formatted="false">"পর্বের সারাংশ"</string>
+  <string name="ui_complete_71" formatted="false">"নম্বর"</string>
+  <string name="ui_complete_72" formatted="false">"মনে রাখা"</string>
+  <string name="ui_complete_73" formatted="false">"অতিরিক্ত বাছাই"</string>
+  <string name="ui_complete_74" formatted="false">"উত্তর দেওয়ার সময়"</string>
+  <string name="ui_complete_75" formatted="false">"সম্পূর্ণ স্তর"</string>
+  <string name="ui_complete_76" formatted="false">"✓ বাছা হয়েছে"</string>
+  <string name="ui_complete_77" formatted="false">"চা"</string>
+  <string name="ui_complete_78" formatted="false">"চাল"</string>
+  <string name="ui_complete_79" formatted="false">"ঝুড়ি"</string>
+  <string name="ui_complete_80" formatted="false">"ফুল"</string>
+  <string name="ui_complete_81" formatted="false">"আম"</string>
+  <string name="ui_complete_82" formatted="false">"পাখি"</string>
+  <string name="ui_complete_83" formatted="false">"ছাতা"</string>
+  <string name="ui_complete_84" formatted="false">"আপেল"</string>
+  <string name="ui_complete_85" formatted="false">"সূর্যমুখী"</string>
+  <string name="ui_complete_86" formatted="false">"মাছ"</string>
+  <string name="ui_complete_87" formatted="false">"আপনার প্রিয় পরিবার ও বন্ধুদের চিনুন"</string>
+  <string name="ui_complete_88" formatted="false">"এখনও পরিবারের সদস্য যোগ করা হয়নি।"</string>
+  <string name="ui_complete_89" formatted="false">"পরিচর্যাকারী নিজের পাতায় আত্মীয় যোগ করতে পারেন।"</string>
+  <string name="ui_complete_90" formatted="false">"ইনি কে মনে আছে?"</string>
+  <string name="ui_complete_91" formatted="false">"সময় নিন, ঠাকুমা 🌼"</string>
+  <string name="ui_complete_92" formatted="false">"🌟 হ্যাঁ! একদম ঠিক!"</string>
+  <string name="ui_complete_93" formatted="false">"🌼 ঠিক আছে, ঠাকুমা!"</string>
+  <string name="ui_complete_94" formatted="false">"পরের ব্যক্তি →"</string>
+  <string name="ui_complete_95" formatted="false">"সারাংশ দেখুন 🌟"</string>
+  <string name="ui_complete_96" formatted="false">"❤️ আপনি পরিবারকে ভালো চেনেন!"</string>
+  <string name="ui_complete_97" formatted="false">"🌻 প্রিয়জনের সঙ্গে সুন্দর সম্পর্ক"</string>
+  <string name="ui_complete_98" formatted="false">"আবার খেলুন 👨‍👩‍👧"</string>
+  <string name="ui_complete_99" formatted="false">"খেলার তালিকায় ফিরুন"</string>
+  <string name="ui_complete_100" formatted="false">"শুনুন ও ঘটনাগুলি মনে করুন"</string>
+  <string name="ui_complete_101" formatted="false">"প্রশ্নের জন্য প্রস্তুত →"</string>
+  <string name="ui_complete_102" formatted="false">"পরের প্রশ্ন →"</string>
+  <string name="ui_complete_103" formatted="false">"ফল দেখুন 🌟"</string>
+  <string name="ui_complete_104" formatted="false">"🎉 দারুণ মনে রেখেছেন!"</string>
+  <string name="ui_complete_105" formatted="false">"😊 ভালো চেষ্টা, ঠাকুমা!"</string>
+  <string name="ui_complete_106" formatted="false">"অন্য গল্প খেলুন 📖"</string>
+  <string name="ui_complete_107" formatted="false">"ওষুধের হিসাব"</string>
+  <string name="ui_complete_108" formatted="false">"আজকের সময়সূচি"</string>
+  <string name="ui_complete_109" formatted="false">"হিসাব এই যন্ত্রে সংরক্ষিত"</string>
+  <string name="ui_complete_110" formatted="false">"এখনও ওষুধ যোগ করা হয়নি।"</string>
+  <string name="ui_complete_111" formatted="false">"ওষুধের নাম (যেমন Donepezil)"</string>
+  <string name="ui_complete_112" formatted="false">"মাত্রা (যেমন ১টি ট্যাবলেট)"</string>
+  <string name="ui_complete_113" formatted="false">"সময় (যেমন 09:00 AM বা 21:00)"</string>
+  <string name="ui_complete_114" formatted="false">"সঠিক সময় লিখুন, যেমন 09:00 AM বা 21:00"</string>
+  <string name="ui_complete_115" formatted="false">"নোট (যেমন সকালের খাবারের পরে)"</string>
+  <string name="ui_complete_116" formatted="false">"যন্ত্রে সংরক্ষণ করুন"</string>
+  <string name="ui_complete_117" formatted="false">"বাতিল করুন"</string>
+  <string name="ui_complete_118" formatted="false">"পানির হিসাব"</string>
+  <string name="ui_complete_119" formatted="false">"পানি খাওয়ার স্মরণবার্তা"</string>
+  <string name="ui_complete_120" formatted="false">"আজ পান করা গ্লাস"</string>
+  <string name="ui_complete_121" formatted="false">"- ১ গ্লাস"</string>
+  <string name="ui_complete_122" formatted="false">"+ ১ গ্লাস 💧"</string>
+  <string name="ui_complete_123" formatted="false">"স্থানীয় যত্নের পরামর্শ"</string>
+  <string name="ui_complete_124" formatted="false">"দৈনন্দিন কাজ"</string>
+  <string name="ui_complete_125" formatted="false">"শান্ত দৈনন্দিন জীবন"</string>
+  <string name="ui_complete_126" formatted="false">"নিয়মিত দৈনন্দিন কাজ যত্নে সাহায্য করে"</string>
+  <string name="ui_complete_127" formatted="false">"দৈনিক স্মরণবার্তা"</string>
+  <string name="ui_complete_128" formatted="false">"বিজ্ঞপ্তির অনুমতি দিন"</string>
+  <string name="ui_complete_129" formatted="false">"বিজ্ঞপ্তির সেটিংস"</string>
+  <string name="ui_complete_130" formatted="false">"সঠিক সময়ের স্মরণবার্তার অনুমতি দিন"</string>
+  <string name="ui_complete_131" formatted="false">"পরিচর্যাকারীর পাতা"</string>
+  <string name="ui_complete_132" formatted="false">"রোগীর যত্নের সারাংশ"</string>
+  <string name="ui_complete_133" formatted="false">"+ পরিবারের ছবি ও তথ্য যোগ করুন"</string>
+  <string name="ui_complete_134" formatted="false">"সময় পেরোনো ওষুধ ও কাজ"</string>
+  <string name="ui_complete_135" formatted="false">"আজ • নির্ধারিত সময়ের ৩০ মিনিট পরেও চিহ্নিত নয়"</string>
+  <string name="ui_complete_136" formatted="false">"আজকের তালিকা খোলা হচ্ছে…"</string>
+  <string name="ui_complete_137" formatted="false">"আজ সময় পেরোনো অচিহ্নিত ওষুধ বা কাজ নেই।"</string>
+  <string name="ui_complete_138" formatted="false">"খাওয়া বলে চিহ্নিত নয়"</string>
+  <string name="ui_complete_139" formatted="false">"সম্পূর্ণ বলে চিহ্নিত নয়"</string>
+  <string name="ui_complete_140" formatted="false">"আজকের সম্পূর্ণ কাজ"</string>
+  <string name="ui_complete_141" formatted="false">"খাওয়া ওষুধ"</string>
+  <string name="ui_complete_142" formatted="false">"পানির গ্লাস"</string>
+  <string name="ui_complete_143" formatted="false">"স্মৃতির অনুশীলনের ফল"</string>
+  <string name="ui_complete_144" formatted="false">"খেলা পর্ব"</string>
+  <string name="ui_complete_145" formatted="false">"গড় নম্বর"</string>
+  <string name="ui_complete_146" formatted="false">"সর্বোচ্চ নম্বর"</string>
+  <string name="ui_complete_147" formatted="false">"গড় সময়"</string>
+  <string name="ui_complete_148" formatted="false">"পরিবারের ছবি ও পরিচয়"</string>
+  <string name="ui_complete_149" formatted="false">"+ ছবি যোগ করুন"</string>
+  <string name="ui_complete_150" formatted="false">"সম্পাদনা করুন"</string>
+  <string name="ui_complete_151" formatted="false">"সাম্প্রতিক খেলার ইতিহাস"</string>
+  <string name="ui_complete_152" formatted="false">"এখনও কোনো পর্ব সংরক্ষিত নেই"</string>
+  <string name="ui_complete_153" formatted="false">"ফলাফল দেখতে স্মৃতির খেলা খেলুন।"</string>
+  <string name="ui_complete_154" formatted="false">"খেলার ফলাফল"</string>
+  <string name="ui_complete_155" formatted="false">"গড় নম্বর"</string>
+  <string name="ui_complete_156" formatted="false">"অগ্রগতি দেখতে একটি স্মৃতির খেলা শেষ করুন।"</string>
+  <string name="ui_complete_157" formatted="false">"পরিবারের ছবি যোগ করুন"</string>
+  <string name="ui_complete_158" formatted="false">"পরিবারের ছবি ও তথ্য সম্পাদনা করুন"</string>
+  <string name="ui_complete_159" formatted="false">"একজনের পরিষ্কার ছবি বাছুন। সব তথ্য প্রয়োজন।"</string>
+  <string name="ui_complete_160" formatted="false">"ছবি বাছুন *"</string>
+  <string name="ui_complete_161" formatted="false">"ছবি বদলান"</string>
+  <string name="ui_complete_162" formatted="false">"ব্যক্তির নাম *"</string>
+  <string name="ui_complete_163" formatted="false">"সম্পর্ক *"</string>
+  <string name="ui_complete_164" formatted="false">"যেমন মেয়ে"</string>
+  <string name="ui_complete_165" formatted="false">"এই ব্যক্তি বা ছবির সম্পর্কে *"</string>
+  <string name="ui_complete_166" formatted="false">"পরিচিত স্মৃতি, ছবি তোলার স্থান বা পছন্দের বিষয়"</string>
+  <string name="ui_complete_167" formatted="false">"উত্তরের পরে এই তথ্য দেখাবে। ছবি অফলাইনে সংরক্ষিত হয়।"</string>
+  <string name="ui_complete_168" formatted="false">"সংরক্ষণ হচ্ছে…"</string>
+  <string name="ui_complete_169" formatted="false">"ছবি ও তথ্য সংরক্ষণ করুন"</string>
+  <string name="ui_complete_170" formatted="false">"স্থানীয় রোগী • এই যন্ত্রে সংরক্ষিত"</string>
+  <string name="ui_complete_171" formatted="false">"রোগীর অ্যাকাউন্ট খোলা হচ্ছে"</string>
+  <string name="ui_complete_172" formatted="false">"আবার সংযোগ করুন"</string>
+  <string name="ui_complete_173" formatted="false">"প্রবেশ পাতায় ফিরুন"</string>
+  <string name="ui_complete_174" formatted="false">"একটু যত্ন। পরিচিত সম্পর্ক।"</string>
+  <string name="ui_complete_175" formatted="false">"আপনার সম্পর্কে জানি"</string>
+  <string name="ui_complete_176" formatted="false">"রোগীর জন্য একটি অ্যাকাউন্ট খুলুন। যত্ন ও স্মৃতি একসঙ্গে থাকবে।"</string>
+  <string name="ui_complete_177" formatted="false">"যত্ন, দৈনন্দিন কাজ ও পরিবারের স্মৃতি পেতে প্রবেশ করুন।"</string>
+  <string name="ui_complete_178" formatted="false">"আগে নিবন্ধন করেছেন? প্রবেশ করুন"</string>
+  <string name="ui_complete_179" formatted="false">"নতুন রোগী? অ্যাকাউন্ট খুলুন"</string>
+  <string name="ui_complete_180" formatted="false">"অথবা এই যন্ত্রেই থাকুন"</string>
+  <string name="ui_complete_181" formatted="false">"দৈনন্দিন যত্ন অফলাইনে চলে। অন্য যন্ত্রের সঙ্গে তথ্য মেলাতে প্রবেশ করুন।"</string>
+  <string name="ui_complete_182" formatted="false">"রোগী ও অ্যাকাউন্টের সেটিংস"</string>
+  <string name="ui_complete_183" formatted="false">"সময়, যেমন 08:00 AM"</string>
+  <string name="ui_complete_184" formatted="false">"এই যন্ত্রের স্থানীয় রোগীর তথ্য আনুন"</string>
+  <string name="ui_complete_185" formatted="false">"লগ আউট / রোগীর অ্যাকাউন্ট বদলান"</string>
+  <string name="ui_complete_186" formatted="false">"এই রোগীর জন্য তথ্য আনুন"</string>
+  <string name="ui_complete_187" formatted="false">"অফলাইন বর্ণনা"</string>
+  <string name="ui_complete_188" formatted="false">"ঠিক আছে"</string>
+  <string name="ui_complete_189" formatted="false">"৪ সংখ্যার পিন"</string>
+  <string name="ui_complete_190" formatted="false">"যত্ন, জরুরি যোগাযোগ ও আত্মীয়ের তথ্য দেখতে ৪ সংখ্যার পিন লিখুন।"</string>
+  <string name="ui_complete_191" formatted="false">"পিন ভুল। কেবল পরিচর্যাকারীর জন্য।"</string>
+  <string name="ui_complete_192" formatted="false">"কথোপকথন ও স্মৃতি মুছুন"</string>
+  <string name="ui_complete_193" formatted="false">"পছন্দ সংরক্ষিত নেই। লিখুন: আমার গান ভালো লাগে।"</string>
+  <string name="ui_complete_194" formatted="false">"স্তর {0}"</string>
+  <string name="ui_complete_195" formatted="false">"{0}টি সম্পূর্ণ পর্ব"</string>
+  <string name="ui_complete_196" formatted="false">"আজ {1}টি কাজের মধ্যে {0}টি সম্পূর্ণ"</string>
+  <string name="ui_complete_197" formatted="false">"আজ {1}টির মধ্যে {0}টি খাওয়া"</string>
+  <string name="ui_complete_198" formatted="false">"ব্যক্তি {0}, মোট {1}"</string>
+  <string name="ui_complete_199" formatted="false">"প্রশ্ন {0}, মোট {1}"</string>
+  <string name="ui_complete_200" formatted="false">"চিনেছেন: {1} জনের মধ্যে {0} জন আত্মীয়"</string>
+  <string name="ui_complete_201" formatted="false">"গড় উত্তরের সময়: {0} সেকেন্ড"</string>
+  <string name="ui_complete_202" formatted="false">"সঠিক উত্তর: {0} / {1}"</string>
+  <string name="ui_complete_203" formatted="false">"গল্প: {0}"</string>
+  <string name="ui_complete_204" formatted="false">"{0}টি ওষুধ • {1}টি কাজ"</string>
+  <string name="ui_complete_205" formatted="false">"{0} • {1} মিনিট পেরিয়েছে"</string>
+  <string name="ui_complete_206" formatted="false">"{0} • অফলাইন অবস্থা"</string>
+  <string name="ui_complete_207" formatted="false">"📞 জরুরি যোগাযোগ ({0})"</string>
+  <string name="ui_complete_208" formatted="false">"খেলার জন্য {0} জন আত্মীয় যোগ করা হয়েছে"</string>
+  <string name="ui_complete_209" formatted="false">"রোগীর পরিচয়: {0}"</string>
+  <string name="ui_complete_210" formatted="false">"{0}-এর অ্যাকাউন্টে তথ্য আনবেন?"</string>
+  <string name="ui_complete_211" formatted="false">"পছন্দ: {0} • সরান"</string>
+  <string name="ui_complete_212" formatted="false">"এড়ান: {0} • সরান"</string>
+  <string name="ui_complete_213" formatted="false">"সব ওষুধ খাওয়া হয়েছে!"</string>
+  <string name="ui_complete_214" formatted="false">"সময়সূচি মেনে চলুন"</string>
+  <string name="ui_complete_215" formatted="false">"ওষুধ যোগ করুন"</string>
+  <string name="ui_complete_216" formatted="false">"বাকি ওষুধ ও কাজের স্মরণবার্তা পেতে বিজ্ঞপ্তির অনুমতি দিন।"</string>
+  <string name="ui_complete_217" formatted="false">"বিজ্ঞপ্তি চালু। নির্ধারিত সময়ে পেতে সঠিক সময়ের অনুমতি দিন; না হলে অ্যান্ড্রয়েড দেরি করতে পারে।"</string>
+  <string name="ui_complete_218" formatted="false">"সময়ের ১৫ মিনিট আগে, সময়ে এবং চিহ্নিত না করলে ৩০ মিনিট পরে স্মরণবার্তা আসে। তালিকা প্রতিদিন নতুন হয়।"</string>
+  <string name="ui_complete_219" formatted="false">"পরিচয় এই যন্ত্রে সংরক্ষিত"</string>
+  <string name="ui_complete_220" formatted="false">"রোগীর তথ্য সম্পূর্ণ সমন্বিত"</string>
+  <string name="ui_complete_221" formatted="false">"লগ আউট হয়েছে"</string>
+  <string name="ui_complete_222" formatted="false">"প্রবেশ করা অ্যাকাউন্টের যত্নের তথ্য ও ছবি নিজে সমন্বিত হয়। চ্যাটের ইতিহাস এই যন্ত্রেই থাকে। বাকি তথ্য মেলাতে লগ আউটের আগে সংযোগ করুন।"</string>
+  <string name="ui_complete_223" formatted="false">"এই যন্ত্রের রোগী একই ব্যক্তি হলেই তথ্য আনুন। ওষুধ, কাজ, পানি, পরিবারের ছবি ও খেলার ইতিহাস যোগ হবে। উদাহরণের ওষুধ ব্যবহারের আগে যাচাই করুন।"</string>
+  <string name="ui_complete_224" formatted="false">"এই রোগীর জন্য শুধু এই যন্ত্রে সংরক্ষিত। স্পষ্ট পছন্দ ও অপছন্দ থেকে আগ্রহ নেওয়া হয়। শেষ ১২০টি বার্তা রাখা হয়।"</string>
+  <string name="ui_complete_225" formatted="false">"আপনি কোন জিনিসগুলি দেখেছিলেন?"</string>
+  <string name="ui_complete_226" formatted="false">"দেখা {0}টি জিনিস বাছুন।"</string>
+  <string name="ui_complete_227" formatted="false">"চমৎকার! 🌟"</string>
+  <string name="ui_complete_228" formatted="false">"ভালো চেষ্টা 😊"</string>
+  <string name="ui_complete_229" formatted="false">"আরেকবার চেষ্টা করি 🌼"</string>
+  <string name="ui_complete_230" formatted="false">"আপনি এগুলি ভালো মনে রেখেছেন।"</string>
+  <string name="ui_complete_231" formatted="false">"আপনি ভালো করছেন। এগিয়ে যান।"</string>
+  <string name="ui_complete_232" formatted="false">"চিন্তা নেই। একই সংখ্যার জিনিস দিয়ে অনুশীলন করতে পারেন।"</string>
+  <string name="ui_complete_233" formatted="false">"ক্ষমতা অনুযায়ী কঠিনতা"</string>
+  <string name="ui_complete_234" formatted="false">"সব সঠিক! পরের পর্বে {0}টি জিনিস।"</string>
+  <string name="ui_complete_235" formatted="false">"পরের পর্ব সহজ করা হচ্ছে।"</string>
+  <string name="ui_complete_236" formatted="false">"পরের পর্বে {0}টি জিনিস। এগোতে অতিরিক্ত বাছাই ছাড়া সব সঠিক করুন।"</string>
+  <string name="ui_complete_237" formatted="false">"{0} সেকেন্ড"</string>
+  <string name="ui_complete_238" formatted="false">"সব ওষুধ খাওয়া হয়েছে!"</string>
+  <string name="ui_complete_239" formatted="false">"{0}টি ওষুধ বাকি"</string>
+  <string name="ui_complete_240" formatted="false">"🌟 আজকের পানির লক্ষ্য পূরণ হয়েছে!"</string>
+  <string name="ui_complete_241" formatted="false">"কাছে পানি রাখুন ও অল্প অল্প পান করুন।"</string>
+  <string name="ui_complete_242" formatted="false">"পানি বা চা অল্প অল্প পান করতে পারেন। চিকিৎসকের পানির পরামর্শ মেনে চলুন।"</string>
+  <string name="ui_complete_243" formatted="false">"যোরহাটের বাজারে এক সকাল"</string>
+  <string name="ui_complete_244" formatted="false">"মঙ্গলবারের রোদেলা সকালে মীনা ঠাকুমা যোরহাটের সাপ্তাহিক বাজারে হেঁটে গেলেন।"</string>
+  <string name="ui_complete_245" formatted="false">"তিনি স্থানীয় শিল্পীর বোনা বেতের ঝুড়ি নিয়ে গেলেন।"</string>
+  <string name="ui_complete_246" formatted="false">"চায়ের দোকানে তিনি পুরোনো বন্ধু বীরেনের সঙ্গে দেখা করে গরম দুধ চা খেলেন।"</string>
+  <string name="ui_complete_247" formatted="false">"বাড়ি ফেরার আগে মীনা তিনটি পাকা হলুদ আম ও রাতের খাবারের জন্য তাজা পালং শাক কিনলেন।"</string>
+  <string name="ui_complete_248" formatted="false">"যোরহাটের সাপ্তাহিক বাজারে কে গিয়েছিলেন?"</string>
+  <string name="ui_complete_249" formatted="false">"মীনা ঠাকুমা"</string>
+  <string name="ui_complete_250" formatted="false">"তাঁর প্রতিবেশী অনিতা"</string>
+  <string name="ui_complete_251" formatted="false">"ডাক্তার দেবেন"</string>
+  <string name="ui_complete_252" formatted="false">"তাঁর বোন রীতা"</string>
+  <string name="ui_complete_253" formatted="false">"মীনা চায়ের দোকানে কার সঙ্গে দেখা করেছিলেন?"</string>
+  <string name="ui_complete_254" formatted="false">"তাঁর বন্ধু বীরেন"</string>
+  <string name="ui_complete_255" formatted="false">"তাঁর ছেলে রাহুল"</string>
+  <string name="ui_complete_256" formatted="false">"দোকানদার মনোজ"</string>
+  <string name="ui_complete_257" formatted="false">"কাউকে না"</string>
+  <string name="ui_complete_258" formatted="false">"বাড়ি যাওয়ার আগে মীনা কী ফল কিনেছিলেন?"</string>
+  <string name="ui_complete_259" formatted="false">"পাকা আম"</string>
+  <string name="ui_complete_260" formatted="false">"মিষ্টি আপেল"</string>
+  <string name="ui_complete_261" formatted="false">"রসালো কমলা"</string>
+  <string name="ui_complete_262" formatted="false">"পেয়ারা"</string>
+  <string name="ui_complete_263" formatted="false">"বাড়িতে বিহু উদযাপন"</string>
+  <string name="ui_complete_264" formatted="false">"রঙালি বিহুতে রাহুল নতুন লাল ও সাদা অসমীয়া গামছা পরল।"</string>
+  <string name="ui_complete_265" formatted="false">"তার মা মিষ্টি নারকেলের পিঠা বানিয়ে কাঁসার বাটিতে তাজা দইয়ের সঙ্গে দিলেন।"</string>
+  <string name="ui_complete_266" formatted="false">"উঠোনে শিশুরা ঢোলের তালে আনন্দে নাচল।"</string>
+  <string name="ui_complete_267" formatted="false">"সন্ধ্যায় তুলসীগাছের নিচে প্রদীপ জ্বালিয়ে উৎসব শান্তিতে শেষ হল।"</string>
+  <string name="ui_complete_268" formatted="false">"বিহুতে রাহুল কী ঐতিহ্যবাহী পোশাক পরেছিল?"</string>
+  <string name="ui_complete_269" formatted="false">"লাল ও সাদা গামছা"</string>
+  <string name="ui_complete_270" formatted="false">"রেশমের কুর্তা"</string>
+  <string name="ui_complete_271" formatted="false">"উলের শাল"</string>
+  <string name="ui_complete_272" formatted="false">"হলুদ স্কার্ফ"</string>
+  <string name="ui_complete_273" formatted="false">"তাজা দইয়ের সঙ্গে কী মিষ্টি খাবার দেওয়া হয়েছিল?"</string>
+  <string name="ui_complete_274" formatted="false">"নারকেলের পিঠা"</string>
+  <string name="ui_complete_275" formatted="false">"পায়েস"</string>
+  <string name="ui_complete_276" formatted="false">"লাড্ডু"</string>
+  <string name="ui_complete_277" formatted="false">"কলার কেক"</string>
+  <string name="ui_complete_278" formatted="false">"সন্ধ্যার প্রদীপ কোথায় জ্বালানো হয়েছিল?"</string>
+  <string name="ui_complete_279" formatted="false">"তুলসীগাছের নিচে"</string>
+  <string name="ui_complete_280" formatted="false">"প্রধান দরজার কাছে"</string>
+  <string name="ui_complete_281" formatted="false">"ছাদে"</string>
+  <string name="ui_complete_282" formatted="false">"নদীর পাড়ে"</string>
+  <string name="ui_complete_283" formatted="false">"কাজিরাঙার সবুজে ভ্রমণ"</string>
+  <string name="ui_complete_284" formatted="false">"দেবেন কাকা পরিবারকে সকালে জিপে কাজিরাঙা জাতীয় উদ্যান দেখতে নিয়ে গেলেন।"</string>
+  <string name="ui_complete_285" formatted="false">"লম্বা ঘাসের ওপর দিয়ে কুয়াশা ধীরে উঠছিল।"</string>
+  <string name="ui_complete_286" formatted="false">"একটি শান্ত পুকুরের কাছে তাঁরা একশৃঙ্গ গন্ডারকে পানি পান করতে দেখলেন।"</string>
+  <string name="ui_complete_287" formatted="false">"তাঁদের ওপরের নীল আকাশ দিয়ে দুটি রঙিন ধনেশ পাখি উড়ে গেল।"</string>
+  <string name="ui_complete_288" formatted="false">"দেবেন কাকা ও পরিবার কোন জাতীয় উদ্যানে গিয়েছিলেন?"</string>
+  <string name="ui_complete_289" formatted="false">"কাজিরাঙা জাতীয় উদ্যান"</string>
+  <string name="ui_complete_290" formatted="false">"মানস অভয়ারণ্য"</string>
+  <string name="ui_complete_291" formatted="false">"নামদফা উদ্যান"</string>
+  <string name="ui_complete_292" formatted="false">"সুন্দরবন"</string>
+  <string name="ui_complete_293" formatted="false">"পুকুরের কাছে কোন প্রাণীকে পানি পান করতে দেখেছিলেন?"</string>
+  <string name="ui_complete_294" formatted="false">"একশৃঙ্গ গন্ডার"</string>
+  <string name="ui_complete_295" formatted="false">"বুনো হাতি"</string>
+  <string name="ui_complete_296" formatted="false">"রয়েল বেঙ্গল বাঘ"</string>
+  <string name="ui_complete_297" formatted="false">"বারাশিঙা হরিণ"</string>
+  <string name="ui_complete_298" formatted="false">"আকাশ দিয়ে কী পাখি উড়েছিল?"</string>
+  <string name="ui_complete_299" formatted="false">"ধনেশ পাখি"</string>
+  <string name="ui_complete_300" formatted="false">"সবুজ টিয়া"</string>
+  <string name="ui_complete_301" formatted="false">"পায়রা"</string>
+  <string name="ui_complete_302" formatted="false">"ঈগল"</string>
+  <string name="ui_complete_303" formatted="false">"{0}টি বাছা হয়েছে"</string>
+  <string name="ui_complete_304" formatted="false">"{0} সেকেন্ড"</string>
+  <string name="ui_complete_305" formatted="false">"স্তর {0} • {1}"</string>
+  <string name="ui_complete_306" formatted="false">"নতুন গল্প খেলুন 📖"</string>
+  <string name="ui_complete_307" formatted="false">"ইংরেজি"</string>
+  <string name="ui_complete_308" formatted="false">"ছবি পাওয়া যাচ্ছে না"</string>
+  <string name="ui_complete_309" formatted="false">"মোট সময়: {0} সেকেন্ড"</string>
+  <string name="ui_complete_310" formatted="false">"• তথ্য এই যন্ত্রে অফলাইনে সংরক্ষিত।
+• স্মৃতির অনুশীলন ও যত্নের জন্য, রোগ নির্ণয়ের জন্য নয়।"</string>
+  <string name="ui_complete_311" formatted="false">"তথ্য মেলাতে প্রবেশ করুন"</string>
+  <string name="ui_complete_312" formatted="false">"এই রোগীর তথ্য খোলা হচ্ছে…"</string>
+  <string name="ui_complete_313" formatted="false">"যন্ত্রে সংরক্ষিত • সমন্বয়ের অপেক্ষা"</string>
+  <string name="ui_complete_314" formatted="false">"অফলাইন তথ্য আছে • সংযোগ পরীক্ষা হচ্ছে"</string>
+  <string name="ui_complete_315" formatted="false">"রোগীর অ্যাকাউন্টের সঙ্গে তথ্য মেলানো হয়েছে"</string>
+  <string name="ui_complete_316" formatted="false">"আপনার দিন"</string>
+  <string name="ui_complete_317" formatted="false">"ওষুধ"</string>
+  <string name="ui_complete_318" formatted="false">"জল পান"</string>
+  <string name="ui_complete_319" formatted="false">"আমার স্মৃতি"</string>
+  <string name="ui_complete_320" formatted="false">"আমার দৈনন্দিন কাজ"</string>
+  <string name="ui_complete_321" formatted="false">"স্মৃতির সঙ্গে কথা বলুন"</string>
+  <string name="ui_complete_322" formatted="false">"সম্পন্ন"</string>
+  <string name="ui_complete_323" formatted="false">"সাইন ইন করুন"</string>
+  <string name="ui_complete_324" formatted="false">"সেটিংস"</string>
+  <string name="ui_complete_325" formatted="false">"সেটিংস বন্ধ করুন"</string>
+  <string name="ui_complete_326" formatted="false">"আবার স্বাগতম"</string>
+  <string name="ui_complete_327" formatted="false">"রোগীর নাম"</string>
+  <string name="ui_complete_328" formatted="false">"রোগীর নাম"</string>
+  <string name="ui_complete_329" formatted="false">"ইমেইল ঠিকানা"</string>
+  <string name="ui_complete_330" formatted="false">"পাসওয়ার্ড"</string>
+  <string name="ui_complete_331" formatted="false">"পাসওয়ার্ড নিশ্চিত করুন"</string>
+  <string name="ui_complete_332" formatted="false">"রোগীর অ্যাকাউন্ট তৈরি করুন"</string>
+  <string name="ui_complete_333" formatted="false">"পাসওয়ার্ড ভুলে গেছেন?"</string>
+  <string name="ui_complete_334" formatted="false">"অফলাইনে চালিয়ে যান"</string>
+  <string name="ui_complete_335" formatted="false">"অপেক্ষা করুন…"</string>
+  <string name="ui_complete_336" formatted="false">"পরিচর্যাকারীর নাম"</string>
+  <string name="ui_complete_337" formatted="false">"পরিচর্যাকারীর ফোন"</string>
+  <string name="ui_complete_338" formatted="false">"অবস্থান"</string>
+  <string name="ui_complete_339" formatted="false">"রোগীর তথ্য সংরক্ষণ করুন"</string>
+  <string name="ui_complete_340" formatted="false">"দৈনন্দিন কাজ যোগ করুন"</string>
+  <string name="ui_complete_341" formatted="false">"কাজ"</string>
+  <string name="ui_complete_342" formatted="false">"কাজ যোগ করুন"</string>
+  <string name="ui_complete_343" formatted="false">"এখন সিঙ্ক করুন"</string>
+  <string name="ui_complete_344" formatted="false">"স্মৃতি"</string>
+  <string name="ui_complete_345" formatted="false">"আপনার জন্য কিছু সময়"</string>
+  <string name="ui_complete_346" formatted="false">"পরিবার, প্রিয় বিষয় ও আপনার দিন"</string>
+  <string name="ui_complete_347" formatted="false">"●  সবসময় অফলাইনে উপলব্ধ"</string>
+  <string name="ui_complete_348" formatted="false">"একটি বার্তা লিখুন…"</string>
+  <string name="ui_complete_349" formatted="false">"পাঠান"</string>
+  <string name="ui_complete_350" formatted="false">"ওষুধ দেখুন"</string>
+  <string name="ui_complete_351" formatted="false">"দৈনন্দিন কাজ দেখুন"</string>
+  <string name="ui_complete_352" formatted="false">"কথোপকথনের স্মৃতি"</string>
+  <string name="ui_complete_353" formatted="false">"আপনি"</string>
+  <string name="ui_complete_354" formatted="false">"নমস্কার 🌤️"</string>
+  <string name="ui_complete_355" formatted="false">"মন ও স্মৃতির জন্য ৩টি খেলা"</string>
+  <string name="ui_complete_356" formatted="false">"অফলাইন কথোপকথন, পরিবার ও দৈনন্দিন যত্ন"</string>
+  <string name="ui_complete_357" formatted="false">"🔒  পরিচর্যাকারীর পাতা (পিন সুরক্ষিত)"</string>
+  <string name="ui_complete_358" formatted="false">"পরিচর্যাকারীর নিরাপত্তা পিন"</string>
+  <string name="ui_complete_359" formatted="false">"ড্যাশবোর্ড খুলুন"</string>
+  <string name="ui_complete_360" formatted="false">"কথোপকথনের উত্তর বর্তমানে ইংরেজিতে দেওয়া হয়।"</string>
+  <string name="ui_complete_361" formatted="false">"ইন্টারফেসের ভাষা বেছে নিন। কিছু বিষয় ইংরেজিতে থাকবে।"</string>
+  <string name="ui_complete_362" formatted="false">"বন্ধু"</string>
+  <string name="ui_complete_363" formatted="false">"ওষুধ দেখুন"</string>
+</resources>

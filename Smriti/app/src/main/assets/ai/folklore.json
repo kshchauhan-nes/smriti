@@ -1,0 +1,290 @@
+[
+  {
+    "region": "Assam",
+    "title": "Tejimola and the Lotus",
+    "story": "A gentle excerpt from the Assamese tale Tejimola: her father was travelling home by boat. He noticed a lotus in the river. The lotus spoke as Tejimola. It became a bird, and her father took the bird home.",
+    "sourceUrl": "https://www.gucdoe.in/sites/default/files/ENG_4096.pdf",
+    "source": "Gauhati University, ENG 4096",
+    "questions": [
+      {
+        "question": "How was her father travelling?",
+        "options": [
+          "boat",
+          "train",
+          "bicycle"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "What flower did he notice?",
+        "options": [
+          "lotus",
+          "rose",
+          "sunflower"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "What did the lotus become?",
+        "options": [
+          "bird",
+          "fish",
+          "butterfly"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "region": "Meghalaya",
+    "title": "The Stag and the Snail",
+    "story": "In this Khasi tale, a snail named Ka Mattah challenged a stag to a race towards Mount Shillong. Other snails waited along the path to help her. Whenever the stag called, a snail answered nearby. A snail was already at the finish.",
+    "sourceUrl": "https://www.gutenberg.org/files/37884/37884-h/37884-h.htm#ch15",
+    "source": "Mrs. Rafy, Folk-Tales of the Khasis (1920)",
+    "questions": [
+      {
+        "question": "Who challenged the stag?",
+        "options": [
+          "Ka Mattah",
+          "Ananya",
+          "Tejimola"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "Where did the race lead?",
+        "options": [
+          "Mount Shillong",
+          "a market",
+          "a river"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "Who helped the snail?",
+        "options": [
+          "Other snails",
+          "birds",
+          "fishermen"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "region": "Manipur",
+    "title": "Khamba and Thoibi Dance",
+    "story": "In the legend remembered in Manipur, Khamba and Thoibi danced together at Moirang. Their dance was offered before Lord Thangjing. The dance is remembered as a wish for peace and prosperity.",
+    "sourceUrl": "https://tourism.gov.in/sites/default/files/2020-04/merged1_.pdf",
+    "source": "Ministry of Tourism, Manipur cultural description",
+    "questions": [
+      {
+        "question": "Who danced with Thoibi?",
+        "options": [
+          "Khamba",
+          "Ka Mattah",
+          "Chhura"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "Where did they dance?",
+        "options": [
+          "Moirang",
+          "Shillong",
+          "Gangtok"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "What did they wish for?",
+        "options": [
+          "peace",
+          "rainy weather",
+          "a new boat"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "region": "Mizoram",
+    "title": "Chhura and the Crab Stew",
+    "story": "In a Mizo tale, Chhura visited another village and enjoyed crab stew. He wanted to make it at home. On his way back he slipped and forgot its name. A passing trader mentioned crab stew, reminding Chhura of the dish.",
+    "sourceUrl": "https://en.wikisource.org/wiki/Page:Folk-lore_-_A_Quarterly_Review._Volume_20,_1909.djvu/458",
+    "source": "Folk-Lore, volume 20 (1909), page 396",
+    "questions": [
+      {
+        "question": "Who visited another village?",
+        "options": [
+          "Chhura",
+          "Khamba",
+          "Tejimola"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "What did he enjoy eating?",
+        "options": [
+          "crab stew",
+          "mango",
+          "rice cake"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "Who mentioned the dish?",
+        "options": [
+          "trader",
+          "teacher",
+          "fisherman"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "region": "Nagaland",
+    "title": "Remembering Jina and Etiben",
+    "story": "An Ao Naga legend remembers Jina and Etiben and their love for one another. Their story is associated with Mopungchuket village. Two towers there remember the couple. Their story and songs are still shared in the village.",
+    "sourceUrl": "https://mokokchung.nic.in/more-about-mopungchuket/",
+    "source": "Mokokchung district, Government of Nagaland",
+    "questions": [
+      {
+        "question": "Who is remembered with Jina?",
+        "options": [
+          "Etiben",
+          "Thoibi",
+          "Tejimola"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which village remembers them?",
+        "options": [
+          "Mopungchuket",
+          "Moirang",
+          "Jorhat"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "What stands in their memory?",
+        "options": [
+          "towers",
+          "boats",
+          "baskets"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "region": "Tripura",
+    "title": "The Growing Chethuang Tree",
+    "story": "This is a short excerpt from the Tripuri Chethuang tale. A young woman looked for a Chethuang seedling. She cared for it and sang to it. In the tale, the tree grew taller as she sang, carrying her towards the sky.",
+    "sourceUrl": "https://wheretheriversconverge.wordpress.com/2015/05/22/folktale-chethuang/",
+    "source": "Songs from the Bamboo Forest, Chethuang (2015)",
+    "questions": [
+      {
+        "question": "What seedling did she seek?",
+        "options": [
+          "Chethuang",
+          "bamboo",
+          "tea"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "What did she do to the tree?",
+        "options": [
+          "sang",
+          "painted",
+          "cut"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "Where did the tree carry her?",
+        "options": [
+          "sky",
+          "market",
+          "river"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "region": "Arunachal Pradesh",
+    "title": "Abo Tani Learns to Grow Food",
+    "story": "In the Galo Mopin tradition, Mopin Ane taught Abo Tani how to cultivate crops. Her daughters showed him farming tools and how to use them. This tradition connects growing food with caring for plants and the earth.",
+    "sourceUrl": "https://archive.arunachaltimes.in/index.php/2022/04/06/the-story-of-abo-tani-and-mopin-mythology/",
+    "source": "Dr T Padu, The Arunachal Times (2022)",
+    "questions": [
+      {
+        "question": "Who learned to cultivate crops?",
+        "options": [
+          "Abo Tani",
+          "Chhura",
+          "Khamba"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "Who taught him?",
+        "options": [
+          "Mopin Ane",
+          "Etiben",
+          "Ka Mattah"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "What did the daughters show?",
+        "options": [
+          "farming tools",
+          "boats",
+          "musical instruments"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "region": "Sikkim",
+    "title": "Tendong Hill Gives Shelter",
+    "story": "In Lepcha folklore, a great flood covered the land. Tendong Hill rose above the water and gave the people a safe place to shelter. The Tendong Lho Rum Faat festival remembers this protection and honours the hill.",
+    "sourceUrl": "https://rajbhavansikkim.gov.in/08-08-2025-on-the-auspicious-occasion-of-tendong-lho-rum-faat-the-honble-governor-of-sikkim-extends-heartiest-greetings-to-the-people-of-sikkim/",
+    "source": "Lok Bhavan Sikkim, festival message (2025)",
+    "questions": [
+      {
+        "question": "What covered the land?",
+        "options": [
+          "flood",
+          "snow",
+          "sand"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which hill gave shelter?",
+        "options": [
+          "Tendong",
+          "Shillong",
+          "Lingvum"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "What does the festival honour?",
+        "options": [
+          "hill",
+          "boat",
+          "basket"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  }
+]
